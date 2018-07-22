@@ -16,3 +16,5 @@
 2/7/2017: Final Project 4 uploaded
 
 2/9/2017: Final Project 5 uploaded
+
+7/22/2018: HR Analysis Python 3 version (HR_py3.ipynb)
